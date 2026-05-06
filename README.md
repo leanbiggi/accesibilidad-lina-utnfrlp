@@ -13,7 +13,7 @@ Se realizó un testeo preliminar utilizando:
 
 ## 📂 Documentación y Hallazgos
 La información se organiza en:
-* **[Reporte de Análisis Preliminar (PDF)](./docs/Analisis-Preliminar-UTNFRLP.pdf.pdf):** Detalle de hallazgos iniciales sobre roles ARIA faltantes y gestión de contenido no textual.
+* **[Reporte de Análisis Preliminar (PDF)](./docs/Analisis-Preliminar-UTNFRLP.pdf):** Detalle de hallazgos iniciales sobre roles ARIA faltantes y gestión de contenido no textual.
 * **[Evidencias de Testeo](./evidencias/):** Capturas del comportamiento del sitio con herramientas de asistencia.
 
 ## 🚀 Impacto
