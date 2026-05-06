@@ -15,6 +15,7 @@ Se realizó un testeo preliminar utilizando:
 La información se organiza en:
 * **[Reporte de Análisis Preliminar (PDF)](./docs/Analisis-Preliminar-UTNFRLP.pdf):** Detalle de hallazgos iniciales sobre roles ARIA faltantes y gestión de contenido no textual.
 * **[Evidencias de Testeo](./evidencias/):** Capturas del comportamiento del sitio con herramientas de asistencia.
+* **[Listado de Herramientas](./herramientas/herramientas.md):** Detalle técnico de los softwares (Stark, NVDA, Axe) utilizados en el Laboratorio LINA.
 
 ## 🚀 Impacto
 Este diagnóstico sirve como base para las futuras implementaciones del laboratorio, buscando que el sitio de la UTN FRLP cumpla con los niveles de conformidad A y AA de las pautas **WCAG**.
